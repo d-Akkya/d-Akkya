@@ -1,14 +1,14 @@
 # 👋 Hello, I’m Akhilesh Bamane
 
-![visitor badge](https://komarev.com/ghpvc/?username=d-Akkya&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/d-Akkya?tab=followers)
+![visitor badge](https://komarev.com/ghpvc/?username=d-Akkya&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/d-Akkya.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/d-Akkya?tab=followers)
 <!---
-MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+d-Akkya/d-Akkya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
 
-[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d-Akkya&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/d-Akkya)
+[![Akhilesh Bamane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d-Akkya&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/d-Akkya)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
