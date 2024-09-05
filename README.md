@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📱 My Social Handles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-akkya/)
-[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_akkya_007/)
-[![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/Akhilesh_Bamane/) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-akkya/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/Akhilesh_Bamane/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/d_akkya_007/)
+
 ***
